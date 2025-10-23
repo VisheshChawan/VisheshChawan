@@ -1,7 +1,11 @@
 <!-- VisheshChawan/VisheshChawan README.md -->
 
+<p align="center">
+  <img src="A_digital_graphic_banner_introduces_Vishesh_Chawan.png" alt="Vishesh Chawan Banner" width="100%">
+</p>
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Vishesh Chawan</span></h1>
-<h3 align="center">💻 Software Engineer | Python • TypeScript • AI • Full Stack Development</h3>
+<h3 align="center">💻 Python • AI • Full Stack Developer</h3>
 
 ---
 
@@ -61,10 +65,18 @@ I regularly solve problems on **LeetCode**, **Codeforces**, and **GFG** to stren
 
 ---
 
-### 📈 GitHub Highlights
+### 📊 GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VisheshChawan&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshChawan&layout=compact&theme=tokyonight&langs_count=6&hide=css,html,shell&custom_title=Most%20Used%20Languages&bg_color=1A1B27&text_color=FFFFFF&title_color=00BFFF&hide_border=true&card_width=340&langs=Python:54,TypeScript:22,JavaScript:12,C++:7,Others:5" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshChawan&layout=compact&theme=tokyonight&langs_count=6&hide=css,html,shell" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-54%25-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/TypeScript-22%25-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-12%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-7%25-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Others-5%25-gray?style=for-the-badge" />
 </p>
 
 <p align="center">
