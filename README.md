@@ -7,10 +7,10 @@
 
 ### 🧠 About Me
 🚀 Passionate **Software Developer** focused on building intelligent, scalable, and user-centric solutions.  
-🎯 I love blending **Web Development, Python, and AI** to create impactful digital products.  
-💡 Currently exploring **AI integrations with full-stack web apps**.  
+🎯 I love blending **Python, Web Development, and AI** to create impactful products.  
+💡 Currently exploring **AI-powered full-stack apps** and **data-driven systems**.  
 🎓 CS Undergrad (Graduating 2026) | Based in **Hyderabad, India**  
-💬 Ask me about **Web Dev, DSA, TypeScript, and Python projects**  
+💬 Ask me about **Web Dev, DSA, Python, and TypeScript projects**  
 
 ---
 
@@ -45,29 +45,26 @@
 > 🖼️ Creative art exploration app with modern **UI/UX**, built using **React**, **TypeScript**, and **Firebase**
 
 #### 🤖 [AI Web Research Assistant](#)
-> 💡 Intelligent **Python + LangChain** agent for automating web research and summarization.  
-> Uses **OpenAI API** + **BeautifulSoup** for real-world data insights.
-
-#### 📊 [Python DataViz Toolkit](#)
-> 📈 A **Python-based visualization tool** showcasing data insights with **Matplotlib**, **Plotly**, and **Pandas**
+> 💡 Intelligent **Python + LangChain** agent that automates web research and summarization.  
+> Built with **OpenAI API**, **BeautifulSoup**, and **Flask**.
 
 ---
 
 ### 🧩 Data Structures & Algorithms
-I regularly solve problems on **LeetCode**, **Codeforces**, and **GFG** to sharpen my algorithmic thinking.
+I regularly solve problems on **LeetCode**, **Codeforces**, and **GFG** to strengthen my fundamentals.
 
 💡 Concepts I enjoy:
-- Trees, Graphs, and DP on Trees
-- Recursion & Backtracking
-- Sliding Window & Greedy
-- Binary Search & Two Pointers
+- Trees, Graphs, and DP on Trees  
+- Recursion & Backtracking  
+- Sliding Window & Greedy Algorithms  
+- Binary Search & Two Pointers  
 
 ---
 
 ### 📈 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisheshChawan&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshChawan&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VisheshChawan&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshChawan&layout=compact&theme=tokyonight&langs_count=6&hide=css,html,shell&custom_title=Most%20Used%20Languages&bg_color=1A1B27&text_color=FFFFFF&title_color=00BFFF&hide_border=true&card_width=340&langs=Python:54,TypeScript:22,JavaScript:12,C++:7,Others:5" height="165" />
 </p>
 
 <p align="center">
@@ -81,9 +78,9 @@ I regularly solve problems on **LeetCode**, **Codeforces**, and **GFG** to sharp
 ---
 
 ### 🏆 Achievements
-- 🎓 **Google Cloud Arcade** participant – hands-on with GenAI & Data Engineering labs  
-- 💻 Built multiple **TypeScript + Python full-stack apps**  
-- 🌟 Consistent GitHub contributor with real-world project collaborations  
+- 🎓 **Google Cloud Arcade** participant – completed GenAI & Data Engineering labs  
+- 💻 Built multiple **Python + TypeScript full-stack apps**  
+- 🌟 Consistent GitHub contributor with public open-source collaborations  
 - 🧠 Skilled in **System Design, OOP, and SOLID Principles**
 
 ---
