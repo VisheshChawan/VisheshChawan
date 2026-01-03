@@ -1,9 +1,5 @@
 <!-- VisheshChawan/VisheshChawan README.md -->
 
-<p align="center">
-  <img src="A_digital_graphic_banner_introduces_Vishesh_Chawan.png" alt="Vishesh Chawan Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Vishesh Chawan</span></h1>
 <h3 align="center">💻 Python • AI • Full Stack Developer</h3>
 
